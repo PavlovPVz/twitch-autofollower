@@ -3,7 +3,7 @@
 1. Создать файл all_tokens.txt
 2. Загрузить туда токены аккаунтов Twitch
 3. Запустить файл follower_limit.py или follower.py
-Авторегер твич https://github.com/PavlovPVz/twitch-autoreg
+ Авторегер твич https://github.com/PavlovPVz/twitch-autoreg
 ### ENG
 
 1. Create file all_tokens.txt
